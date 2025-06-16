@@ -278,7 +278,7 @@ This project is submitted for the Google Cloud Agent Development Kit Hackathon.
 ## 🚀 Ready to Experience the Future of Financial Intelligence?
 
 ```bash
-git clone https://github.com/yourusername/intellitrade-ai
+git clone https://github.com/ravirajvanshi/intellitrade-ai
 cd intellitrade-ai
 pip install -r requirements.txt
 python dashboard.py
