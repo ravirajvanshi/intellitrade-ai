@@ -209,10 +209,10 @@ intellitrade-ai/
 │   ├── risk_assessment_agent.py      # Portfolio risk
 │   └── alert_generation_agent.py     # Smart notifications
 ├── dashboard.py                      # Main web application
-├── demo.py                          # Demo script for videos
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-└── demo_results.json               # Demo output data
+├── demo.py                           # Demo script for videos
+├── requirements.txt                  # Python dependencies
+├── README.md                         # This file
+└── demo_results.json                 # Demo output data
 ```
 
 ## 🎯 Key Features
