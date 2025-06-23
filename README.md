@@ -91,7 +91,7 @@ IntelliTrade AI democratizes financial intelligence through sophisticated multi-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/intellitrade-ai
+   git clone https://github.com/ravirajvanshi/intellitrade-ai
    cd intellitrade-ai
    ```
 
